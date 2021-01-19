@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center"> <h1 align="center"> Elangovan Sndar </h1> </p>
+<p align="center">
+<a href="https://github.com/thesteamworks" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Steamworks" height="20" width="20" /></a>
+<a href="https://twitter.com/ignSteamworks" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Steamworks" height="20" width="20" /></a>
+</p>
 
-<!--
-**thesteamworks/thesteamworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Steamworks, I know how to create minecraft plugins and discord bots.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on [MinePyro](https://www.minepyro.com) and [Sperk](https://www.sperk.xyz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+
+`Discord` - Steamworks#1127
+
+❤️ Support my open source projects:
+
+[![Donate](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/steamsworld)
+
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=thesteamworks&show_icons=true alt=Steamworks />
+</p>
