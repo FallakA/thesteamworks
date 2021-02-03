@@ -14,7 +14,7 @@ I'm Steamworks, I know how to create minecraft plugins and discord bots.
 
 ❤️ Support my open source projects:
 
-[![Donate](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.me/steamsworld)
+CashApp: $csteamo
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=thesteamworks&show_icons=true alt=Steamworks />
